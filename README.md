@@ -18,6 +18,7 @@ Atualmente, venho desenvolvendo meus conhecimentos principalmente em Python, HTM
 🎨 Design & Edição
 <p> <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobe&logoColor=white"/> <img src="https://img.shields.io/badge/VEGAS%20Pro-000000?style=for-the-badge&logoColor=white"/> </p>
 🎓 Formação
+<p <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzM_aoF_zrqs-WEMlBdL3YMlogrxmC5uBTCq0I_hZmUMHAMnHhU5TgZNpP&s=10"></p>
 
 📚 Desenvolvimento de Sistemas — SENAI
 
