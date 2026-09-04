@@ -122,7 +122,7 @@ text
 </a>
 
 <a href="mailto:pietropansani038@gmail.com">
-<img src="https://img.shields.io/badge/Email-reynaldosamuel7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-pietropansani038@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
