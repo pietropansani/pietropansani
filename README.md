@@ -1,44 +1,144 @@
-👋 Olá, eu sou Pietro Pansani!
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=180&section=header&text=Pietro%20Pansani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> </p> <p align="center"> <strong>💻 Desenvolvedor de Sistemas | 🎨 Designer | 🚀 Entusiasta de Tecnologia</strong> </p> <p align="center"> <a href="https://github.com/pietropansani"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/pietro-pansani-451b572ab/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
-🧑‍💻 Sobre mim
+# 👨‍💻 Pietro Pansani
 
-Olá! Meu nome é Pietro Pansani e sou estudante de Desenvolvimento de Sistemas pelo SENAI.
+### 🚀 Desenvolvedor em formação | 💻 Tecnologia | 🐍 Python | 🌐 Web
 
-Tenho interesse em tecnologia, programação e design, buscando sempre unir o lado lógico do desenvolvimento com o lado criativo do design.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+</p>
 
-Atualmente, venho desenvolvendo meus conhecimentos principalmente em Python, HTML e CSS, além de explorar ferramentas do universo de criação e edição digital.
+---
 
-🎯 Meu objetivo é continuar evoluindo como profissional, criando projetos cada vez mais completos e transformando ideias em soluções reais.
+## 👋 Olá, eu sou o Pietro!
 
-💻 Tecnologias & Conhecimentos
-🐍 Programação
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </p>
-🌐 Desenvolvimento Web
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p>
-🎨 Design & Edição
-<p> <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobe&logoColor=white"/> <img src="https://img.shields.io/badge/VEGAS%20Pro-000000?style=for-the-badge&logoColor=white"/> </p>
-🎓 Formação
-<p <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzM_aoF_zrqs-WEMlBdL3YMlogrxmC5uBTCq0I_hZmUMHAMnHhU5TgZNpP&s=10"></p>
+💻 Sou estudante e desenvolvedor em formação no SENAI, apaixonado por *tecnologia, programação e desenvolvimento de sistemas*.
 
-📚 Desenvolvimento de Sistemas — SENAI
+Atualmente estou aprimorando meus conhecimentos em *Python, Desenvolvimento Web, Banco de Dados, Back-End e Git/GitHub*, sempre buscando transformar ideias em projetos práticos.
 
-Atualmente estudando conceitos de programação, desenvolvimento de sistemas, desenvolvimento web e fundamentos relacionados à tecnologia.
+> 🚀 *Aprender → Praticar → Criar → Evoluir*
 
-🚀 O que estou buscando
-📚 Aprender
-   └── Novas tecnologias e ferramentas
+---
 
-💻 Desenvolver
-   └── Projetos que coloquem meus conhecimentos em prática
+## 🛠️ Tecnologias
 
-🎨 Criar
-   └── Experiências que unam tecnologia e design
+<div align="center">
 
-🚀 Evoluir
-   └── Como desenvolvedor e profissional
+### 🐍 Programação
 
-📊 GitHub
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietropansani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietropansani&layout=compact&langs_count=6&theme=tokyonight"/> </p>
-📫 Entre em contato
-<p align="center"> <a href="https://www.linkedin.com/in/pietro-pansani-451b572ab/"> <img src="https://img.shields.io/badge/LinkedIn-Pietro%20Pansani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/pietropansani"> <img src="https://img.shields.io/badge/GitHub-pietropansani-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
-<p align="center"> <i>“Transformando ideias em código e criatividade em experiências.”</i> </p> <p align="center"> ⭐ Se algum dos meus projetos te interessar, fique à vontade para explorar! </p>
+<img src="https://skillicons.dev/icons?i=python" />
+
+### 🌐 Desenvolvimento Web
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+### ⚙️ Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+## 📚 O que estou estudando
+
+* 🐍 Python
+* 🌐 HTML & CSS
+* ⚙️ Desenvolvimento Back-End
+* 🗄️ Banco de Dados & SQL
+* 🔧 Git & GitHub
+* 🔐 Segurança da Informação
+* 🚀 APIs
+* 💻 Desenvolvimento de Sistemas
+
+---
+
+## 💻 Meus projetos
+
+| Projeto                     | Tecnologias | Descrição                                      |
+| --------------------------- | ----------- | ---------------------------------------------- |
+| 🐍 *Sistema Pet Shop*        | Python      | Exercícios e práticas de lógica de programação |
+| 🌐 *Sites ( Linktree / Atividades etc... )* | HTML + CSS  | Projeto de desenvolvimento Web                 |
+| ⚽ *Tabela Brasileirão* | HTML        | Projeto relacionado ao futebol                 |
+| 💻 *Atividades*           | HTML        | Exercícios e projetos acadêmicos               |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelreynaldo23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelreynaldo23&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Minha jornada
+
+text
+        🐍 PYTHON
+           │
+           ▼
+     💻 PROGRAMAÇÃO
+           │
+           ▼
+       🌐 HTML
+           │
+           ▼
+       🎨 CSS
+           │
+           ▼
+     🚀 PROJETOS
+           │
+           ▼
+    👨‍💻 DESENVOLVEDOR
+
+
+---
+
+## 🎯 Objetivos
+
+🚀 Evoluir cada vez mais como desenvolvedor
+💻 Criar projetos reais e úteis
+🔐 Aprender mais sobre Cybersecurity
+🐍 Dominar Python
+🌐 Desenvolver aplicações Web completas
+🗄️ Aprofundar meus conhecimentos em Banco de Dados
+📚 Continuar estudando novas tecnologias
+
+---
+
+## 📫 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://github.com/pietropansani">
+  <img src="https://img.shields.io/badge/GitHub-pietropansani-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/pietro-pansani-451b572ab/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pietro%20Pansani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:pietropansani038@gmail.com">
+<img src="https://img.shields.io/badge/Email-reynaldosamuel7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Transforme erros em aprendizado, ideias em código e sonhos em projetos."
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=samuelreynaldo23&color=blueviolet&style=for-the-badge&label=VISITAS+NO+PERFIL" />
+
+<br><br>
+
+⭐ *Se algum projeto meu te ajudou, considere deixar uma estrela!*
+
+</div>
