@@ -3,7 +3,7 @@
 ### 🚀 Desenvolvedor em formação | 💻 Tecnologia | 🐍 Python | 🌐 Web
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,assembly,kernel,html,css,adobe,vegas,git,github,vscode" />
 </p>
 
 ---
